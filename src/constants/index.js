@@ -9,7 +9,7 @@ import sy from "../assets/sy.png"
 
 export const HERO_CONTENT = `Results-oriented software engineer with a strong background in full-stack development and a passion for creating innovative solutions and contributing to dynamic projects in a collaborative team environment.`;
 
-export const ABOUT_TEXT = `I am a innovative software developer living in Bay area with extensive experience in JavaScript, Python, TypeScript, SQL, HTML, and CSS. Proficient in frameworks like Django, React, Next.js, and Tailwind CSS, and skilled in database management using MongoDB, PostgreSQL, and Prisma. Led the development of ConfSec, an online meeting platform, and engineered dynamic applications for Maharashtra Metro Rail Corporation. Holds an M.S. in Computer Software Engineering from Stevens Institute of Technology and a B.Tech in Electronics and Telecommunications from Symbiosis Institute of Technology. Passionate about creating scalable, secure, and user-centric software solutions. `;
+export const ABOUT_TEXT = `  I am an innovative software developer based in the Bay Area with extensive experience in JavaScript, Python, TypeScript, SQL, HTML, and CSS. I am proficient in frameworks such as Django, React, Next.js, and Tailwind CSS, and skilled in database management using MongoDB, PostgreSQL, and Prisma. I led the development of ConfSec, an online meeting platform, and engineered dynamic applications for Maharashtra Metro Rail Corporation. I hold an M.S. in Computer Software Engineering from Stevens Institute of Technology and a B.Tech in Electronics and Telecommunications from Symbiosis Institute of Technology. I am passionate about creating scalable, secure, and user-centric software solutions. `;
 
 export const EXPERIENCES = [
   {
@@ -75,7 +75,7 @@ title: "Symbiosis Institute of technology (Pune, India)",
 year:"July 2017- May 2021",
 image: sy,
     
-    description:"Masters in Computer Software Engineering",
+description:"B.Tech in Electronics and Telecommunication Engineering",
     
       },
   
