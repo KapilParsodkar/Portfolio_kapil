@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import pz from "../assets/projects/pz.png"
 import m from "../assets/m.jpg"
 import e from "../assets/e.jpg"
 import s from "../assets/s.png"
@@ -32,13 +33,15 @@ technologies: ["React js", "Node js", "flask", "Firebase"],
 ];
 
 export const PROJECTS = [
-  {
+
+{
 title: "BuyKart",
     image: project1,
 description:"Architected ecommerce website using Next.js with responsive design elements from Tailwind CSS.Integrated user authentication with NextAuth and managed database operations with Drizzle. Validated data integrity and security with server-side validation using Zod",
 
 technologies: ["NextAuth", "Drizzle", "React js", "Next.js", "zod"],
   },
+  
   {
 title: "Fitczar",
     image: project2,
@@ -59,6 +62,12 @@ title: "MaxGram",
 description:"A clone of Instagram made by React Native",
 technologies: ["HTML", "CSS", "React Native"],
   },
+  {
+    title:"Pizzamania",
+    image:pz,
+    description:`Created Pizza Mania, a pizza delivery app using React with React Router 6.4 for advanced routing and Redux for state management. Implemented dynamic cart functionality and integrated with Vercel for seamless deployment. Focused on a responsive and user-friendly UI. Ensured efficient state handling and routing for optimal performance. `,
+    technologies:["React Router","Redux"]
+    }
 ];
 
 export const EDUCATION = [
