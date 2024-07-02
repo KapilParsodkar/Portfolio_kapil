@@ -10,7 +10,7 @@ import sy from "../assets/sy.png"
 
 export const HERO_CONTENT = `Results-oriented software engineer with a strong background in full-stack development and a passion for creating innovative solutions and contributing to dynamic projects in a collaborative team environment.`;
 
-export const ABOUT_TEXT = `  I am an innovative software developer based in the Bay Area with extensive experience in JavaScript, Python, TypeScript, SQL, HTML, and CSS. I am proficient in frameworks such as Django, React, Next.js, and Tailwind CSS, and skilled in database management using MongoDB, PostgreSQL, and Prisma. I led the development of ConfSec, an online meeting platform, and engineered dynamic applications for Maharashtra Metro Rail Corporation. I hold an M.S. in Computer Software Engineering from Stevens Institute of Technology and a B.Tech in Electronics and Telecommunications from Symbiosis Institute of Technology. I am passionate about creating scalable, secure, and user-centric software solutions. `;
+export const ABOUT_TEXT = `  I am an innovative software developer based in the Dallas,Texas with extensive experience in JavaScript, Python, TypeScript, SQL, HTML, and CSS. I am proficient in frameworks such as Django, React, Next.js, and Tailwind CSS, and skilled in database management using MongoDB, PostgreSQL, and Prisma. I led the development of ConfSec, an online meeting platform, and engineered dynamic applications for Maharashtra Metro Rail Corporation. I hold an M.S. in Computer Software Engineering from Stevens Institute of Technology and a B.Tech in Electronics and Telecommunications from Symbiosis Institute of Technology. I am passionate about creating scalable, secure, and user-centric software solutions. `;
 
 export const EXPERIENCES = [
   {
@@ -90,7 +90,7 @@ description:"B.Tech in Electronics and Telecommunication Engineering",
   
 ];
 export const CONTACT = {
-address: "2008 Terracotta ct, Milpitas, California, 95035",
+address: "3813 Hibbs st, Plano Tx 75025",
 phoneNo: "+1 (856) 441 3375 ",
 email: "kapskar99@gmail.com",
 };
