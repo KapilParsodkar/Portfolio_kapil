@@ -22,7 +22,7 @@ description: `Spearheaded development of ConfSec, an online meeting platform uti
 technologies: ["Javascript", "React.js", "Next.js", "PostgreSQL", "Prisma","Tailwind-css","Django","Typescript","Drizzle"],
   },
   {
-year: "January 2020 - July 2021",
+year: "June 2018 - July 2021",
 image:m,
 role: "Software Developer",
 company: "Maharashtra Metro Rail Corporation Limited(Nagpur, India)",
@@ -81,7 +81,7 @@ description:"Masters in Computer Software Engineering",
   },
   {
 title: "Symbiosis Institute of technology (Pune, India)",
-year:"July 2017- May 2021",
+year:"July 2014- May 2018",
 image: sy,
     
 description:"B.Tech in Electronics and Telecommunication Engineering",
